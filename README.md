@@ -1,1 +1,1 @@
-# GERADOR-DE-SENHA
+# gerador-de-senha-AP
